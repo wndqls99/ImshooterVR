@@ -16,7 +16,7 @@ ImshooterVR
 <img src="https://github.com/leehb105/ImshooterVR/blob/main/Assets/GitImages/controller.png" width="60%" height="50%" title="px(픽셀) 크기 설정" alt="image"></img>  
 
 ### 스틸컷
-<img src="https://github.com/leehb105/ImshooterVR/blob/main/Assets/GitImages/pic.png" width="30%" height="20%" title="px(픽셀) 크기 설정" alt="image"></img>  
+<img src="https://github.com/leehb105/ImshooterVR/blob/main/Assets/GitImages/pic.png" width="30%" height="20%" title="px(픽셀) 크기 설정" alt="image"></img> 
 <img src="https://github.com/leehb105/ImshooterVR/blob/main/Assets/GitImages/pic2.png" width="30%" height="20%" title="px(픽셀) 크기 설정" alt="image"></img>  
    
 ## 프로젝트 개요
