@@ -17,6 +17,7 @@ ImshooterVR
 
 ### 스틸컷
 <img src="https://github.com/leehb105/ImshooterVR/blob/main/Assets/GitImages/pic.png" width="30%" height="20%" title="px(픽셀) 크기 설정" alt="image"></img>  
+<img src="https://github.com/leehb105/ImshooterVR/blob/main/Assets/GitImages/pic2.png" width="30%" height="20%" title="px(픽셀) 크기 설정" alt="image"></img>  
    
 ## 프로젝트 개요
 - VR 컨트롤러를 이용해 생동감 있는 양궁게임 구현
