@@ -1,7 +1,7 @@
 ImshooterVR
 ============
 >Oculus Quest2 환경의 1인칭 VR 양궁 게임   
->>*양손 컨트롤러를 이용해 실내에서도
+>>*양손 컨트롤러를 이용해 실내에서도   
 >>양궁 게임을 즐겨보자!'*
 
 <img src="https://github.com/leehb105/ImshooterVR/blob/main/Assets/GitImages/main.jpg" width="60%" height="50%" title="px(픽셀) 크기 설정" alt="image"></img>   
@@ -9,7 +9,7 @@ ImshooterVR
 ## 게임 개요
 
 ### 테스트 환경
-- Device - Facebook 사 Oculus Quest 1/2   
+- Device - Facebook 사 Oculus Quest 2   
 - Minimum SDK - Android 4.4 KitKat(API Level 19)   
 
 ### 조작법
