@@ -30,5 +30,6 @@ ImshooterVR
 - 사용언어: <img src="https://img.shields.io/badge/C%20Sharp-239120?style=flat-square&logo=C%20Sharp&logoColor=white"/></a><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=white"/></a>   
 - 구현된 점 : 디자인패턴(Singleton), DB(<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/></a>)Acess   
 
+<body>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q-4oN24EmWg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+</body>
