@@ -32,3 +32,5 @@ ImshooterVR
 
     
 영상 링크 : https://youtu.be/q-4oN24EmWg
+
+<iframe width="1010" height="568" src="https://www.youtube.com/embed/q-4oN24EmWg" frameborder="0" gesture="media" allowfullscreen=""></iframe>
