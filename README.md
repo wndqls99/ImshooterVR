@@ -28,9 +28,7 @@ ImshooterVR
 
 - 사용 엔진 : <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Unity_Technologies_logo.svg/1280px-Unity_Technologies_logo.svg.png" width="90px" height="30px" title="unity_image" alt="RubberDuck"></img> [(2019.4.12f)](https://unity3d.com/unity/whats-new/2019.4.12 "2019.4.12 link")   
 - 사용언어: <img src="https://img.shields.io/badge/C%20Sharp-239120?style=flat-square&logo=C%20Sharp&logoColor=white"/></a><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=white"/></a>   
-- 구현된 점 : 디자인패턴(Singleton), DB(<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/></a>)Acess  
+- 구현된 점 : 디자인패턴(Singleton), DB(<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/></a>)Acess   
 
-    
-영상 링크 : https://youtu.be/q-4oN24EmWg
 
 <iframe width="1010" height="568" src="https://www.youtube.com/embed/q-4oN24EmWg" frameborder="0" gesture="media" allowfullscreen=""></iframe>
